@@ -17,7 +17,7 @@ const ConnectedApp = ({ Component }) => (
   <Provider store={store}>
     <HelmetProvider>
       <React.StrictMode>
-        1843
+        1850
         <Component />
       </React.StrictMode>
     </HelmetProvider>
