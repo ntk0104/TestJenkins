@@ -10,7 +10,7 @@ import AppRoutes from './features/App/routes';
 import * as serviceWorker from './serviceWorker';
 
 import { configureAppStore } from './store';
-
+ 
 const store = configureAppStore();
 const MOUNT_NODE = document.getElementById('root');
 
